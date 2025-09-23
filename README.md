@@ -5,9 +5,9 @@ i love to make games and beyond the screen, you’ll often catch me singing, dra
 
 my socials and links {
 
- [Website](https://soradacroi.github.io/)  
- [Instagram](https://www.instagram.com/sora_da_croi/)  
- [Twitter/X](https://x.com/SoraDaCroi)
+ [my website](https://soradacroi.github.io/)  
+ [instagram](https://www.instagram.com/sora_da_croi/)  
+ [twitter/x](https://x.com/SoraDaCroi)
 
 }
 
