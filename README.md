@@ -1,16 +1,14 @@
-## Hi there 👋
+## hey! i'm sora
 
-<!--
-**soradacroi/soradacroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a data science student
+i love to make games and beyond the screen, you’ll often catch me singing, drawing, or making the worse music u may have heard, always on my own
 
-Here are some ideas to get you started:
+my socials and links {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [Website](https://soradacroi.github.io/)  
+ [Instagram](https://www.instagram.com/sora_da_croi/)  
+ [Twitter/X](https://x.com/SoraDaCroi)
+
+}
+
+thankyou.
