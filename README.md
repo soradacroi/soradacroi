@@ -7,7 +7,7 @@ my socials and links {
 
  [my website](https://soradacroi.github.io/)  
  [instagram](https://www.instagram.com/sora_da_croi/)  
- ~~[twitter/x](https://x.com/SoraDaCroi)~~ i don’t use it anymore
+ ~~[twitter/x](https://.com/)~~ i don’t use it anymore
 
 }
 
